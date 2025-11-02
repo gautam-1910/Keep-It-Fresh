@@ -102,7 +102,7 @@ Service workers and push notifications are supported in supported browsers.
 
 For queries, contact me@:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deslin-delvi)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black)](mailto:deslindelvi7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gautam-dev1910)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gautamdev1910@gmail.com)
 
 
 ---
@@ -110,3 +110,4 @@ For queries, contact me@:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
