@@ -71,37 +71,6 @@ Keep-It-Fresh/
 ```
 
 
----
-
-## 🚀 How to Run the Project
-
-### 📦 Clone the Repository
-```bash
-git clone https://github.com/deslin-delvi/Keep-It-Fresh.git
-cd Keep-It-Fresh
-```
-### 📁 Setup Environment
-
-Create a new .env file based on this .env
-### 🔧 Install Dependencies
-```bash
-npm install
-```
-### ▶️ Start the Server
-```bash
-node backend/server.js
-```
-### 📌 Notes
-Ensure MongoDB is running locally or provide a MongoDB Atlas URI in .env.
-
-Service workers and push notifications are supported in supported browsers.
-
----
-
-## 📬 Contact
-
-For queries, contact me@:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gautam-dev1910)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gautamdev1910@gmail.com)
 
 
@@ -110,4 +79,5 @@ For queries, contact me@:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
